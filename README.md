@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liberator23
-- 👀 I’m interested in Game Design!
-- 🌱 I’m currently earning a BSc in Communication and Multimedia Design. Major in Game Design, Minor in Medialism.
+- 👀 I’m interested in Game Design and Level Design!
+- 🌱 I hold a BSc in Communication and Multimedia Design. Major in Game Design, Minor in Medialism.
 - 💞️ I’m looking to collaborate on game development projects!
 - 📫 How to reach me: Email at jkrogman23@gmail.com
 
